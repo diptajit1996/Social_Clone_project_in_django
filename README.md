@@ -1,1 +1,1 @@
-This is a blog project where we write some blog and after that people can read it.
+Created a social project where user can create their own group and post in it. And others and read that post. They can also join in that group.
